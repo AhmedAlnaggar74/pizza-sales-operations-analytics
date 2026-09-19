@@ -36,6 +36,7 @@ The project delivers an interactive 2-page Executive Dashboard providing operati
 * **Interactive What-If Parameter:** Allows decision-makers to adjust price multipliers during peak buckets (-10% to +20%).
 * **Revenue Lift Analysis:** Dynamic DAX calculations tracking expected revenue increase and percentage growth.
 * **Comparative Visuals:** Clustered bar charts comparing baseline revenue vs. simulated dynamic revenue by operational time bucket.
+
 ![Dynamic Pricing Simulation](docs/Dynamic_Pricing_Simulation.png)
 ---
 
