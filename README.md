@@ -30,13 +30,13 @@ The project delivers an interactive 2-page Executive Dashboard providing operati
 * **KPI Metrics Bar:** Instant visibility on overall revenue ($818K), total orders (21K), and AOV ($38).
 * **Peak Hours Heatmap (Matrix Visual):** Conditional formatting highlighting high-volume order slots by day and hour.
 * **Hourly Category Breakdown:** Ribbon/Line chart depicting hourly demand across pizza categories (`Chicken`, `Classic`, `Supreme`, `Veggie`).
- ![Operations Overview](docs/Operations Overview .png)
+ ![Operations Overview](docs/Operations_Overview.png)
 
 ### 📄 Page 2: Dynamic Pricing & Scenario Simulation
 * **Interactive What-If Parameter:** Allows decision-makers to adjust price multipliers during peak buckets (-10% to +20%).
 * **Revenue Lift Analysis:** Dynamic DAX calculations tracking expected revenue increase and percentage growth.
 * **Comparative Visuals:** Clustered bar charts comparing baseline revenue vs. simulated dynamic revenue by operational time bucket.
-![Dynamic Pricing Simulation](docs/Dynamic Pricing Simulation .png)
+![Dynamic Pricing Simulation](docs/Dynamic_Pricing_Simulation.png)
 ---
 
 ## 📈 Key Business Insights
